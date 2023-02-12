@@ -1,0 +1,21 @@
+Kali Linux
+
+https://cdimage.kali.org/kali-weekly/kali-linux-2023-W05-installer-amd64.iso
+
+
+ubuntu
+
+https://releases.ubuntu.com/22.04/ubuntu-22.04.1-desktop-amd64.iso
+
+
+Win 10
+
+https://fdn.digiboy.ir/dlir-s3/en_windows_10_business_editions_version_2004_updated_sep_2020_x86_dvd_1073875f.iso
+
+Windows 2012
+
+https://fdn.digiboy.ir/dlir-s3/en_windows_server_2012_r2_vl_with_update_x64_dvd_4065221.iso
+
+
+Windows 7
+https://drive.google.com/open?id=1-k4uyoLeqo-N8CA1Vf49hEKhjxAGajFn 

